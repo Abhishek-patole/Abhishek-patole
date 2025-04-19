@@ -37,9 +37,9 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-patole-80b456319/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/abhishek-patole-80b456319" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
